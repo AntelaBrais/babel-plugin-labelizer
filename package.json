@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-labelizer",
+  "version": "1.0.0",
+  "description": "Babel plugin that lets you add labels to function parameters like: sayHelloTo(name: \"Brais\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "label",
+    "parameters",
+    "function",
+    "sugar",
+    "syntax"
+  ],
+  "author": "Brais Antela braantela@gmail.com",
+  "license": "MIT"
+}
